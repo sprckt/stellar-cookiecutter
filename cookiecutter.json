@@ -1,0 +1,13 @@
+{
+  "full_name": "Eric Thanenthiran",
+  "email": "eric@stellarglyph.io",
+  "github_username": "sprckt",
+  "package_name": "stellar-boilerplate",
+  "project_name": "Python Boilerplate",
+  "project_slug": "{{ cookiecutter.package_name.replace('-', '_') }}",
+  "project_short_description": "A Modern and slim Python Boilerplate.",
+  "project_command_line_alias": "{{ cookiecutter.package_name.replace('stellar-', '') }}",
+  "pypi_username": "{{ cookiecutter.github_username }}",
+  "first_version": "0.1.0",
+  "__gh_slug": "{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}"
+}
