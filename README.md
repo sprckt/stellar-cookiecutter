@@ -18,7 +18,7 @@ Python tooling in 2025.
 Install the latest Cookiecutter if you haven't installed it yet:
 
 ```bash
-pip install -U cookiecutter
+brew install cookiecutter
 ```
 
 Generate a Python package project:
