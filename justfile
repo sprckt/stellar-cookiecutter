@@ -6,6 +6,7 @@ list:
 bake BAKE_OPTIONS="--no-input":  
     cookiecutter {{BAKE_OPTIONS}} . --overwrite-if-exists
 
+# Remove the boielrplate project
 clean:
     rm -rf stellar-boilerplate
 
